@@ -5,7 +5,7 @@ service:
   lifecycle:
   tier:
   product:
-  owner: team_b
+  owner: team_a
   language:
   framework:
   description:
