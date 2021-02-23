@@ -1,9 +1,9 @@
 ---
 version: 1
 service:
-  name: java service 2
+  name: ruby service 2
   lifecycle:
-  tier:
+  tier: 1
   product:
   owner: team_a
   language:
