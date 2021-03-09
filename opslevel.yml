@@ -3,7 +3,7 @@ version: 1
 service:
   name: ruby service 2
   lifecycle:
-  tier: 1
+  tier: tier_1
   product:
   owner: team_a
   language:
