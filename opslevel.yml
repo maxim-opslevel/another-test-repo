@@ -1,7 +1,7 @@
 ---
 version: 1
 service:
-  name: ruby service 2
+  name: ruby service 3
   lifecycle:
   tier: "tier_1"
   product:
